@@ -3,13 +3,12 @@ Example of rendering large list
 
 Used:
 
-  - React
-  - Next.js
-  - Material-UI
+  - [React](https://github.com/facebook/react)
+  - [Next.js](https://github.com/zeit/next.js/)
+  - [Material-UI](https://github.com/callemall/material-ui)
 
 
 To run:
 
 `npm run install`
-
 `npm run dev`
