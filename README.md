@@ -4,8 +4,8 @@ Example of rendering large list
 Used:
 
   - [React](https://github.com/facebook/react)
-  - [Next.js](https://github.com/zeit/next.js/)
-  - [Material-UI](https://github.com/callemall/material-ui)
+  - [Next.js](https://github.com/zeit/next.js/) (for routing and SSR)
+  - [Material-UI](https://github.com/callemall/material-ui) (UI library)
 
 
 To run:
